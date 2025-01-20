@@ -36,7 +36,7 @@
     "nyc": "^17.0.0",
     "serve-static": "^1.16.1",
     "ssestream": "^1.0.0",
-    "standard": "^17.1.0",
+    "standard": "^17.1.2",
     "webpack": "^5.94.0"
   },
   "scripts": {
